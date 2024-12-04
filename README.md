@@ -20,4 +20,5 @@ We take your privacy seriously and implement appropriate technical and organizat
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the effective date at the top of the policy. We encourage you to review this Privacy Policy periodically for any changes.
 
-You may contact us via our Discord community (https://discord.gg/ANDfxfhcSY) if you have any concerns, if you would like your data removed, please contact the company that hosts that data, such as PlayFab or Photon, or us, but contacting the company directly is the best approach.
+## Personal data removal
+You may contact us via our Discord community (https://discord.gg/ANDfxfhcSY) in order to get your personal data removed off the platforms we use to store your data, this can be done by opening a data removal ticket inside the discord server.
